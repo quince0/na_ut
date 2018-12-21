@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 5ebe4e8a6f41dfc4d8d7719b6255eefe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: book2
+    100002: book3
+    100004: book4
+    100006: chest1
+    100008: potion10
+    100010: potion11
+    100012: potion12
+    100014: scrollBlue11
+    100016: scrollBlue12
+    100018: scrollRed8
+    100020: scrollRed9
+    100022: scrollYellow
+    100024: scrollYellow1
+    100026: scrollYellow2
+    100028: scrollYellow7
+    100030: //RootNode
+    100032: shelf
+    100034: shelf1
+    100036: strangething
+    400000: book2
+    400002: book3
+    400004: book4
+    400006: chest1
+    400008: potion10
+    400010: potion11
+    400012: potion12
+    400014: scrollBlue11
+    400016: scrollBlue12
+    400018: scrollRed8
+    400020: scrollRed9
+    400022: scrollYellow
+    400024: scrollYellow1
+    400026: scrollYellow2
+    400028: scrollYellow7
+    400030: shelf
+    400032: //RootNode
+    400034: shelf1
+    400036: strangething
+    2100000: bookCover
+    2100002: bookPaper
+    2100004: bookCover2
+    2100006: potionGreen
+    2100008: cork
+    2100010: potionBlue
+    2100012: potionRed
+    2100014: lambert1
+    2100016: wood
+    2100018: wood1
+    2100020: metal
+    2100022: leather
+    2100024: blanket
+    2100026: deskCloth
+    2100028: tableclothYellow
+    2300000: book2
+    2300002: book3
+    2300004: book4
+    2300006: chest1
+    2300008: potion10
+    2300010: potion11
+    2300012: potion12
+    2300014: scrollBlue11
+    2300016: scrollBlue12
+    2300018: scrollRed8
+    2300020: scrollRed9
+    2300022: scrollYellow
+    2300024: scrollYellow1
+    2300026: scrollYellow2
+    2300028: scrollYellow7
+    2300030: shelf
+    2300032: shelf1
+    3300000: book2
+    3300002: book3
+    3300004: book4
+    3300006: chest1
+    3300008: potion10
+    3300010: potion11
+    3300012: potion12
+    3300014: scrollBlue11
+    3300016: scrollBlue12
+    3300018: scrollRed8
+    3300020: scrollRed9
+    3300022: scrollYellow
+    3300024: scrollYellow1
+    3300026: scrollYellow2
+    3300028: scrollYellow7
+    3300030: shelf
+    3300032: shelf1
+    4300000: book3
+    4300002: book4
+    4300004: book2
+    4300006: potion12
+    4300008: potion10
+    4300010: potion11
+    4300012: shelf
+    4300014: shelf1
+    4300016: chest1
+    4300018: scrollRed9
+    4300020: scrollBlue12
+    4300022: scrollYellow7
+    4300024: scrollBlue11
+    4300026: scrollRed8
+    4300028: scrollYellow1
+    4300030: scrollYellow
+    4300032: scrollYellow2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
