@@ -61,16 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Scripts\DoorDetectionLite.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Scripts\DoorRotationLite.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Scripts\Helper Scripts\ConditionalHideAttribute.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Scripts\Helper Scripts\MouseLook.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Scripts\Helper Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Scripts\Helper Scripts\RotationTools.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Scripts\Helper Scripts\StayPositiveAttribute.cs" />
     <Compile Include="Assets\ExternalAssets\DungeonModules\Scripts\DoorAOpen.cs" />
-    <Compile Include="Assets\ExternalAssets\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs" />
-    <Compile Include="Assets\ExternalAssets\GE Common Assets\Scripts\GE_UIResponder.cs" />
     <Compile Include="Assets\ExternalAssets\LowpolyDungeonAssets\Demo Scene\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\ExternalAssets\LowpolyDungeonAssets\Demo Scene\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\ExternalAssets\LowpolyDungeonAssets\Demo Scene\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -313,9 +304,8 @@
     <None Include="Assets\ExternalAssets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
     <None Include="Assets\ExternalAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
     <None Include="Assets\ExternalAssets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
-    <None Include="Assets\ExternalAssets\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
+    <None Include="Assets\ExternalAssets\Skybox clouds\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
     <None Include="Assets\ExternalAssets\Standard Assets\Cameras\CameraGuidelines.txt" />
-    <None Include="Assets\ExternalAssets\GE Common Assets\Readme.txt" />
     <None Include="Assets\ExternalAssets\LowpolyDungeonAssets\Demo Scene\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
     <None Include="Assets\ExternalAssets\LowpolyDungeonAssets\Demo Scene\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\ExternalAssets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />

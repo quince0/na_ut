@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: b4628e2af531d9c4b8bf99ad8ecead0f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: chest
+    100002: //RootNode
+    100004: fireplace
+    100006: fireplace1
+    100008: firewood_chunck
+    100010: light_pPlatonic4
+    100012: light_pPlatonic5
+    100014: mountedAnimals:pCube1
+    100016: mountedAnimals:pCube4
+    100018: mountedAnimals:polySurface5
+    100020: mountedAnimals:transform10
+    100022: mountedAnimals:transform9
+    100024: polySurface1523
+    100026: polySurface1523 1
+    100028: polySurface1538
+    100030: polySurface1539
+    100032: polySurface1542
+    100034: polySurface1544
+    100036: polySurface1548
+    100038: polySurface1549
+    100040: polySurface1595
+    100042: polySurface1597
+    100044: polySurface1740
+    100046: pPlatonic4
+    100048: pPlatonic5
+    100050: strangething
+    100052: transform364
+    100054: transform377
+    100056: transform378
+    100058: transform379
+    100060: transform380
+    100062: transform381
+    100064: transform382
+    100066: transform383
+    100068: transform384
+    100070: transform385
+    100072: transform386
+    400000: chest
+    400002: //RootNode
+    400004: fireplace
+    400006: fireplace1
+    400008: firewood_chunck
+    400010: light_pPlatonic4
+    400012: light_pPlatonic5
+    400014: mountedAnimals:pCube1
+    400016: mountedAnimals:pCube4
+    400018: mountedAnimals:polySurface5
+    400020: mountedAnimals:transform10
+    400022: mountedAnimals:transform9
+    400024: polySurface1523
+    400026: polySurface1523 1
+    400028: polySurface1538
+    400030: polySurface1539
+    400032: polySurface1542
+    400034: polySurface1544
+    400036: polySurface1548
+    400038: polySurface1549
+    400040: polySurface1595
+    400042: polySurface1597
+    400044: polySurface1740
+    400046: pPlatonic4
+    400048: pPlatonic5
+    400050: strangething
+    400052: transform364
+    400054: transform377
+    400056: transform378
+    400058: transform379
+    400060: transform380
+    400062: transform381
+    400064: transform382
+    400066: transform383
+    400068: transform384
+    400070: transform385
+    400072: transform386
+    2100000: wood1
+    2100002: metal
+    2100004: leather
+    2100006: flameBase
+    2100008: candle
+    2100010: stone1
+    2100012: lambert1
+    2100014: stone
+    2100016: wood
+    2100018: soot_2
+    2100020: soot
+    2300000: chest
+    2300002: fireplace1
+    2300004: firewood_chunck
+    2300006: mountedAnimals:pCube4
+    2300008: polySurface1523
+    2300010: pPlatonic4
+    2300012: pPlatonic5
+    3300000: chest
+    3300002: fireplace1
+    3300004: firewood_chunck
+    3300006: mountedAnimals:pCube4
+    3300008: polySurface1523
+    3300010: pPlatonic4
+    3300012: pPlatonic5
+    4300000: firewood_chunck
+    4300002: chest
+    4300004: pPlatonic4
+    4300006: pPlatonic5
+    4300008: mountedAnimals:pCube4
+    4300010: fireplace1
+    4300012: polySurface1523
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

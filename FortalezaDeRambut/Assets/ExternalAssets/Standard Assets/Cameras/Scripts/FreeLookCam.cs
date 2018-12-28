@@ -27,6 +27,10 @@ namespace UnityStandardAssets.Cameras
 		private Vector3 m_PivotEulers;
 		private Quaternion m_PivotTargetRot;
 		private Quaternion m_TransformTargetRot;
+        //private float currentZoom = 62f;
+        //public float zoomSpeed = 4f;
+        //public float minZoom = 3f;
+        //public float maxZoom = 100f;
 
         protected override void Awake()
         {
@@ -43,12 +47,17 @@ namespace UnityStandardAssets.Cameras
 
         protected void Update()
         {
+            //currentZoom -= Input.GetAxis("Mouse ScrollWheel") * zoomSpeed;
+            //currentZoom = Mathf.Clamp(currentZoom, minZoom, maxZoom);
+            //Camera.main.fieldOfView = currentZoom;
             HandleRotationMovement();
             if (m_LockCursor && Input.GetMouseButtonUp(0))
             {
                 Cursor.lockState = m_LockCursor ? CursorLockMode.Locked : CursorLockMode.None;
                 Cursor.visible = !m_LockCursor;
             }
+
+            
         }
 
 

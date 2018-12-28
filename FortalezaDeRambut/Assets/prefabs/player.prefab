@@ -1353,7 +1353,7 @@ GameObject:
   - component: {fileID: 95981428581764632}
   - component: {fileID: 114567919866075686}
   - component: {fileID: 114013177225300306}
-  - component: {fileID: 114750812045422018}
+  - component: {fileID: 114512283441466094}
   m_Layer: 0
   m_Name: naga
   m_TagString: Player
@@ -2992,7 +2992,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1114825761369934}
   m_LocalRotation: {x: -0, y: -0.6407666, z: -0, w: 0.76773566}
-  m_LocalPosition: {x: -73.19442, y: 50.4632, z: 25.959108}
+  m_LocalPosition: {x: -72.969864, y: 50.1, z: 40.707718}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4019926866756844}
@@ -3203,7 +3203,7 @@ Camera:
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
+  m_FocalLength: 24.068275
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -3212,7 +3212,7 @@ Camera:
     height: 1
   near clip plane: 0.02
   far clip plane: 400
-  field of view: 60
+  field of view: 53
   orthographic: 0
   orthographic size: 100
   m_Depth: -1
@@ -3311,6 +3311,7 @@ MonoBehaviour:
   m_MoveSpeedMultiplier: 1
   m_AnimSpeedMultiplier: 1
   m_GroundCheckDistance: 0.3
+  playerCamera: {fileID: 20116356280270176}
 --- !u!114 &114360684120247928
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3332,6 +3333,20 @@ MonoBehaviour:
   m_TiltMin: 45
   m_LockCursor: 0
   m_VerticalAutoReturn: 0
+--- !u!114 &114512283441466094
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1826398651554656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b60c0667f503541ad2ab04ca43f714, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  attack: 0
+  defense: 0
 --- !u!114 &114567919866075686
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3343,26 +3358,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 521b611700410be45810047f0a74e899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114750812045422018
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1826398651554656}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7689643d982fc1441ac84528eb5783c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TextPrefab: {fileID: 0}
-  TextPrefabInstance: {fileID: 0}
-  TextActive: 0
-  CrosshairPrefab: {fileID: 0}
-  CrosshairPrefabInstance: {fileID: 0}
-  Reach: 4
-  InReach: 0
-  Character: e
-  DebugRayColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &114852176839559820
 MonoBehaviour:
   m_ObjectHideFlags: 1

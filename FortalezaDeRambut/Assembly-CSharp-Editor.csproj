@@ -61,14 +61,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Editor\ChangeLog.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Editor\ConditionalHidePropertyDrawer.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Editor\DoorDetectionLiteEditor.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Editor\DoorRotationLiteEditor.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Editor\EditorStylesHelper.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Editor\ErrorWindow.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Editor\SupportWindow.cs" />
-    <Compile Include="Assets\ExternalAssets\Animations\doorAnimation\Alex's Door System Lite\Editor\TagHelper.cs" />
     <Compile Include="Assets\ExternalAssets\LowpolyDungeonAssets\Demo Scene\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
     <Compile Include="Assets\ExternalAssets\LowpolyDungeonAssets\Demo Scene\PostProcessing\Editor\Models\AmbientOcclusionModelEditor.cs" />
     <Compile Include="Assets\ExternalAssets\LowpolyDungeonAssets\Demo Scene\PostProcessing\Editor\Models\AntialiasingModelEditor.cs" />

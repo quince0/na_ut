@@ -36,6 +36,10 @@ public class SceneManager : MonoBehaviour {
         player = GameObject.FindGameObjectWithTag("Player");
         changeFloorArray = GameObject.FindGameObjectsWithTag("Change Floor");
 
+        if (currentFloorNumber == 6)
+        {
+            currentFloorNumber = 0;
+        }
         for (int i = 0; i < changeFloorArray.Length; i++)
         {
             if (changeFloorArray[i].GetComponent<ChangeFloor>().changeFloorNumber == currentFloorNumber + 1
@@ -52,7 +56,11 @@ public class SceneManager : MonoBehaviour {
     {
         currentFloorNumber = passedChangeFloorNumber;
 
-        switch(currentFloorNumber)
+        if (currentFloorNumber == 6)
+        {
+            currentFloorNumber = 0;
+        }
+        switch (currentFloorNumber)
         {
             case 0: 
                 Application.LoadLevel(1);
