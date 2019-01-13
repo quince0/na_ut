@@ -2617,7 +2617,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1394263229025762}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 120, y: 3.8, z: 10.33}
+  m_LocalPosition: {x: 123.5, y: 4.67, z: 11.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4955496749783500}
@@ -4728,9 +4728,9 @@ Rigidbody:
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 122
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!65 &65184993922370412
 BoxCollider:
@@ -5082,14 +5082,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1394263229025762}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: acec430c55f64ac4bacfef3ece8e7178, type: 3}
+  m_Script: {fileID: 11500000, guid: 3a53c8d4a0a46614cb960d70067caf7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   debug: 1
-  distanceToGetObjetive: 8
+  objetive: {fileID: 0}
+  distanceToGetObjetive: 4
   distanceToNotMove: 12
   stopDistance: 2
-  turnSpeed: 29.421053
+  turnSpeed: 29.42105
   anglesToStop: 30
   speedSmoothTime: 0.1
   speedSmoothTimeAnimation: 0
@@ -5102,13 +5103,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1394263229025762}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d1f096ced79f104b9748e5845a78a8d, type: 3}
+  m_Script: {fileID: 11500000, guid: d47dda28b80285d40890d8a79aa4f590, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
   attack: 10
   defense: 0
-  speed: 10
+  speed: 20
 --- !u!136 &136011509726440448
 CapsuleCollider:
   m_ObjectHideFlags: 1

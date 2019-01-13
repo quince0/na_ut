@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 1ae0b1213597f6746a977df1c4ab7d1d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: book26
+    100002: book27
+    100004: book28
+    100006: book29
+    100008: book30
+    100010: book31
+    100012: book32
+    100014: candle5
+    100016: candle6
+    100018: candle7
+    100020: cauldron1
+    100022: cauldron2
+    100024: cauldron3
+    100026: cauldron4
+    100028: cauldron5
+    100030: chest2
+    100032: pCube15
+    100034: pCube4
+    100036: pCube5
+    100038: polySurface1656
+    100040: potion19
+    100042: potion20
+    100044: potion21
+    100046: potion22
+    100048: scollBundle
+    100050: scrollBlue
+    100052: scrollBlue 1
+    100054: scrollBlue1
+    100056: scrollBlue2
+    100058: scrollBlue3
+    100060: scrollBlue4
+    100062: scrollBundle
+    100064: scrollBundle1
+    100066: scrollBundle2
+    100068: scrollRed
+    100070: scrollRed 1
+    100072: scrollYellow
+    100074: scrollYellow 1
+    100076: scrollYellow3
+    100078: //RootNode
+    100080: shortBookShelf
+    100082: strangething
+    100084: transform368
+    100086: transform369
+    100088: transform370
+    400000: book26
+    400002: book27
+    400004: book28
+    400006: book29
+    400008: book30
+    400010: book31
+    400012: book32
+    400014: candle5
+    400016: candle6
+    400018: candle7
+    400020: cauldron1
+    400022: cauldron2
+    400024: cauldron3
+    400026: cauldron4
+    400028: cauldron5
+    400030: chest2
+    400032: pCube15
+    400034: pCube4
+    400036: pCube5
+    400038: polySurface1656
+    400040: potion19
+    400042: potion20
+    400044: potion21
+    400046: potion22
+    400048: scollBundle
+    400050: scrollBlue
+    400052: scrollBlue 1
+    400054: scrollBlue1
+    400056: scrollBlue2
+    400058: scrollBlue3
+    400060: scrollBlue4
+    400062: scrollBundle
+    400064: scrollBundle1
+    400066: scrollBundle2
+    400068: scrollRed
+    400070: scrollRed 1
+    400072: scrollYellow
+    400074: scrollYellow 1
+    400076: scrollYellow3
+    400078: shortBookShelf
+    400080: //RootNode
+    400082: strangething
+    400084: transform368
+    400086: transform369
+    400088: transform370
+    2100000: potionYellow
+    2100002: cork
+    2100004: potionGreen
+    2100006: potionPurple
+    2100008: candle
+    2100010: wick
+    2100012: potionBlue
+    2100014: bookCover
+    2100016: bookPaper
+    2100018: bookCover3
+    2100020: bookCover5
+    2100022: bookCover1
+    2100024: metal
+    2100026: wood1
+    2100028: leather
+    2100030: deskCloth
+    2100032: blanket
+    2100034: tableclothYellow
+    2100036: wood
+    2300000: book26
+    2300002: book27
+    2300004: book28
+    2300006: book29
+    2300008: book30
+    2300010: book31
+    2300012: book32
+    2300014: candle5
+    2300016: candle6
+    2300018: candle7
+    2300020: cauldron1
+    2300022: cauldron2
+    2300024: cauldron3
+    2300026: cauldron4
+    2300028: cauldron5
+    2300030: chest2
+    2300032: pCube15
+    2300034: polySurface1656
+    2300036: potion19
+    2300038: potion20
+    2300040: potion21
+    2300042: potion22
+    2300044: scollBundle
+    2300046: scrollBlue
+    2300048: scrollBlue 1
+    2300050: scrollBlue1
+    2300052: scrollBlue2
+    2300054: scrollBlue3
+    2300056: scrollBlue4
+    2300058: scrollBundle1
+    2300060: scrollRed
+    2300062: scrollRed 1
+    2300064: scrollYellow
+    2300066: scrollYellow 1
+    2300068: scrollYellow3
+    3300000: book26
+    3300002: book27
+    3300004: book28
+    3300006: book29
+    3300008: book30
+    3300010: book31
+    3300012: book32
+    3300014: candle5
+    3300016: candle6
+    3300018: candle7
+    3300020: cauldron1
+    3300022: cauldron2
+    3300024: cauldron3
+    3300026: cauldron4
+    3300028: cauldron5
+    3300030: chest2
+    3300032: pCube15
+    3300034: polySurface1656
+    3300036: potion19
+    3300038: potion20
+    3300040: potion21
+    3300042: potion22
+    3300044: scollBundle
+    3300046: scrollBlue
+    3300048: scrollBlue 1
+    3300050: scrollBlue1
+    3300052: scrollBlue2
+    3300054: scrollBlue3
+    3300056: scrollBlue4
+    3300058: scrollBundle1
+    3300060: scrollRed
+    3300062: scrollRed 1
+    3300064: scrollYellow
+    3300066: scrollYellow 1
+    3300068: scrollYellow3
+    4300000: potion21
+    4300002: potion19
+    4300004: potion22
+    4300006: candle6
+    4300008: potion20
+    4300010: candle5
+    4300012: candle7
+    4300014: book30
+    4300016: book31
+    4300018: book32
+    4300020: book27
+    4300022: book26
+    4300024: polySurface1656
+    4300026: book28
+    4300028: book29
+    4300030: cauldron5
+    4300032: cauldron4
+    4300034: cauldron3
+    4300036: cauldron2
+    4300038: cauldron1
+    4300040: chest2
+    4300042: scrollBlue
+    4300044: scrollRed
+    4300046: scrollYellow
+    4300048: scrollBundle1
+    4300050: scrollBlue4
+    4300052: scrollRed
+    4300054: scrollYellow3
+    4300056: scrollYellow
+    4300058: scrollBlue3
+    4300060: scrollBlue2
+    4300062: scrollBlue1
+    4300064: scrollBlue
+    4300066: scollBundle
+    4300068: pCube15
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
